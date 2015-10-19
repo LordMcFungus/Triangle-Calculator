@@ -22,7 +22,7 @@ namespace triaculator
 	{
 		public MainWindow()
 		{
-			InitializeComponent();
+            InitializeComponent();
 		}
 	}
 }
